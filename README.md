@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/zeidhan/upluplupl/blob/main/git%20profile%20background.jpg)
 <h1 align="center">Hi there👋, I'm Zeeshan</h1>
-<h3 align="center">I’m currently focusing on upgrading DevOps skills</h3>
+<h3 align="center">I’m currently focusing on upgrading my DevOps skills</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/zeidhan/upluplupl/blob/main/dev-ops-gif-dr.gif">
 
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about anything, will be happy to help
 
-- 📫 How to reach me: [linkedin]([www.google.com](https://www.linkedin.com/in/zeeshanizm/))
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/zeeshanizm/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
