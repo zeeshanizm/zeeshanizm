@@ -1,7 +1,7 @@
-[![MasterHead](https://drive.google.com/file/d/1xxb2lUvYgYu7Uz78SSksAZhHwDecSKBB/view)]
+![MasterHead](https://github.com/zeidhan/upluplupl/blob/main/git%20profile%20background.jpg)
 <h1 align="center">Hi there👋, I'm Zeeshan</h1>
 <h3 align="center">I’m currently focusing on upgrading DevOps skills</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/4502902-DevOps-engineer-animation.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/zeidhan/upluplupl/blob/main/dev-ops-gif-dr.gif">
 
 
 - 🔭 I’m currently working on upgrading skills
