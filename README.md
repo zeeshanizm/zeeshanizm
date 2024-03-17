@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/zeidhan/upluplupl/blob/main/dev-ops-gif-dr.gif">
 
 
-- 🔭 I’m currently working on upgrading skills
+- 🔭 I’m currently working on upgrading my skills
 
 - 🌱 I’m focusing on learning DevOps
 
