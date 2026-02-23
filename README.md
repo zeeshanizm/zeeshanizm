@@ -1,4 +1,4 @@
-![MasterHead](github_banner.png)
+![MasterHead](github_banner_git.png)
 <h1 align="center">Hi there👋, I'm Zeeshan</h1>
 <h3 align="center">I’m currently focusing on upgrading my DevOps skills</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/zeidhan/upluplupl/blob/main/dev-ops-gif-dr.gif">
