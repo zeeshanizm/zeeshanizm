@@ -120,3 +120,8 @@ Interested in cloud engineering, infrastructure automation, system reliability, 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:071426&height=110&section=footer" width="100%" alt="Footer wave" />
 
 </div>
+
+## 🐍 My Contribution Activity
+
+![Snake Animation](https://raw.githubusercontent.com/zeeshanizm/zeeshanizm/output/github-contribution-grid-snake-dark.svg)
+
