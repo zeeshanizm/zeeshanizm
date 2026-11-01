@@ -91,8 +91,8 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zeeshanizm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071426&title_color=00d4ff&icon_color=00d4ff&text_color=cbd5e1" height="170" alt="GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshanizm&layout=compact&theme=tokyonight&hide_border=true&bg_color=071426&title_color=00d4ff&text_color=cbd5e1" height="170" alt="Most used repository languages" />
+<img src="https://github-stats-extended.vercel.app/api?username=zeeshanizm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=071426&title_color=00d4ff&icon_color=00d4ff&text_color=cbd5e1" height="170" alt="GitHub statistics" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=zeeshanizm&layout=compact&theme=tokyonight&hide_border=true&bg_color=071426&title_color=00d4ff&text_color=cbd5e1" height="170" alt="Most used repository languages" />
 
 <img src="https://streak-stats.demolab.com?user=zeeshanizm&theme=tokyonight&hide_border=true&background=071426&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" alt="GitHub contribution streak" />
 
